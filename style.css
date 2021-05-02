@@ -16,7 +16,7 @@ body {
 }
 .screen {
     width: 100%;
-    font-size: 7rem;
+    font-size: 4rem;
     padding: 0.5rem;
     background: rgba(41, 41, 56);
     color: white;
@@ -50,7 +50,8 @@ button:hover {
 
 .btn,
 .btn-equal,
-.btn-clear, .btn-delete {
+.btn-clear,
+.btn-delete {
     font-size: 4rem;
 }
 
@@ -58,6 +59,7 @@ button:hover {
     background: green;
 }
 
-.btn-clear, .btn-delete {
+.btn-clear,
+.btn-delete {
     background: red;
 }
